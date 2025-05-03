@@ -92,6 +92,8 @@ note: for our mentors you will find it in extra links(text file in drive)
    or
 
    python agent.py
+
+   The new version is comming in AgentNew.py 
    ```
 
 #### Frontend Setup
